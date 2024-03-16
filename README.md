@@ -233,16 +233,22 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 |------|------------|------|
 | 15. Mars 2024 | Reagerer på innleie-oppklaring: − På grensen til det komiske | [Digi](https://www.digi.no/artikler/reagerer-pa-innleie-oppklaring-pa-grensen-til-det-komiske/544931) |
 | 15. Mars 2024 | Full forvirring om nye innleieregler. Nå svarer Brenna | [Digi](https://www.digi.no/artikler/full-forvirring-om-nye-innleieregler-na-svarer-brenna/544907) |
+| 14. Mars 2024 | Innleiereglene misforstås fortsatt: - Tror ikke vi er i mål | [kode24.no](https://www.kode24.no/artikkel/innleiereglene-misforstas-fortsatt-tror-ikke-vi-er-i-mal/81118134) |
 | 11. Mars 2024 | Ulovlig å være enslig IT-konsulent | [Computerworld](https://www.cw.no/arbeidsmiljoloven-arbeidsrett-enkeltpersonforetak/ulovlig-a-vaere-enslig-it-konsulent/2162092) |
 | 05. Mars 2024 | – Jeg har fått næringsforbud | [Finansavisen](https://www.finansavisen.no/karriere/2024/03/05/8105998/selvstendig-naeringsdrivende-nektes-godkjenning-na-mister-de-oppdrag) |
 | 05. Feb. 2024 | Arbeidstaker mot sin vilje | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/synspunkt-nicolay-skarning-arbeidstaker-mot-sin-vilje) |
 | 22. Jan. 2024 | Flere dømmes til å være arbeidstaker | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/flere-dommes-til-vaere-arbeidstaker) |
 | 30. Jan. 2024  | Dømt til å være arbeidstaker? | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/synspunkt-karoline-amundsen-dystebakken-domt-til-vaere-arbeidstaker) |
+| 28. Nov. 2023 | Arbeidstilsynet: Mange selvstendige utviklere kan fortsette som før | [kode24.no](https://www.kode24.no/artikkel/arbeidstilsynet-mange-selvstendige-utviklere-kan-fortsette-som-for/80586413) |
+| 20. Nov. 2023 | Dag Martin har eget AS – slik tolker han de nye frilans-reglene | [kode24.no](https://www.kode24.no/artikkel/dag-martin-har-eget-as-slik-tolker-han-de-nye-frilans-reglene/80533586) |
+| 17. Nov. 2023 | Må dere gjør alt så innmari vanskelig for utviklere? | [kode24.no](https://www.kode24.no/artikkel/ma-dere-gjor-alt-sa-innmari-vanskelig-for-utviklere/80526418) |
+| 14. Nov. 2023 | Jo, utviklere kan fortsatt være frilans: Sånn fungerer de nye reglene | [kode24.no](https://www.kode24.no/artikkel/jo-utviklere-kan-fortsatt-vaere-frilans-sann-fungerer-de-nye-reglene/80505522) |
+| 08. Nov. 2023 | Utviklere blir tvunget tilbake til konsulent-miljøer og faste stillinger | [kode24.no](https://www.kode24.no/artikkel/utviklere-blir-tvunget-tilbake-til-konsulent-miljoer-og-faste-stillinger/80457686) |
+| 15. Mai 2023 | – Flere konsulent­­hus vil få det tøft | [kode24.no](https://www.kode24.no/artikkel/flere-konsulenthus-vil-fa-det-toft/79260619) |
 | 01. April 2023 | Nå blir det nye regler for innleie av arbeidskraft | [Regjeringen.no](https://www.regjeringen.no/no/aktuelt/na-blir-det-nye-regler-for-innleie-av-arbeidskraft/id2970261/) |
 | 20. Des. 2022 | Skjerpa reglar for innleige | [Regjeringen.no](https://www.regjeringen.no/no/aktuelt/skjerpa-reglar-for-innleige/id2952383/) |
 | 17. Juni 2022 | Regjeringen foreslår å skjerpe reglene for innleie | [Regjeringen.no](https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-a-skjerpe-reglene-for-innleie/id2919491/) |
 | 17. Juni 2022 | Stortingsproposisjon 131 | [Regjeringen.no](https://www.regjeringen.no/no/dokumenter/prop.-131-l-20212022/id2919207/)
-
 
 # Ordliste
 
