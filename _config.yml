@@ -2,3 +2,9 @@ plugins:
   - jekyll-spaceship
 
 mermaid: true
+
+exclude:
+  - tmp/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
