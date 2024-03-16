@@ -45,16 +45,6 @@ I alle tilfeller kan man uansett kun leie inn arbeidstakere fra enten et godkjen
 
 Du kan lese mer om dette hos [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsforhold/ansettelse/innleie/).
 
-## Hva er en entreprise
-
-På [Wikipedia](https://no.wikipedia.org/wiki/Entreprise) finner man følgende definisjon av en enterprise:
-
-> En entreprise er et bygge- eller anleggsoppdrag på fast eiendom etter byggherrens planer og prosjektering, med entreprenøren (som skal stå for oppføringen) og byggherren (på hvis eiendom og i hvis interesse byggingen skal skje) som parter.
->
-> En entreprenør vil kunne være både de store entreprenørfirmaer og en byggmester, murer, rørlegger, elektriker eller fagfolk innen andre tekniske fag. Større leverandører innen slike fag, kalles ofte tekniske entreprenører.
-
-"Entreprise" er altså et begrep fra byggebransjen. I IT-bransjen brukes ikke dette begrepet. Det finnes heller ingen tydelig ekvivalent for enterpriser i IT-bransjen. Det nærmeste kan kanskje være en oppdragsavtale (SSA-O) med forhåndsavtalt fastpris. 
-
 ## Hva er kjøp av konsulenttjenester
 
 I følge [DigDir's veileder for kjøp av konsulenttjenester](https://anskaffelser.no/sites/default/files/difi_veileder_konsulenttjenester.pdf):
@@ -73,7 +63,20 @@ graph LR
     Konsulent -->|Arbeidsavtale| Leverandør
 ```
 
-For en selvstendig konsulent så vil hen være både eier og eneste ansatt i leverandørvirksomheten.
+For selvstendige konsulenter vil det dog ofte være et firepartsforhold:
+
+```mermaid
+graph LR
+
+    Kunde -->|Avtale om bistand| Leverandør
+    Underleverandør -->|Forpliktelseserklæring| Leverandør
+
+    Konsulent -->|Arbeidsavtale| Underleverandør
+```
+
+Her har ikke underleverandøren anledning til å levere direkte til kunden, men må i stedet levere sine tjenester gjennom en leverandør som har en direkte avtale med kunden.
+
+I mange tilfeller vil leverandøren her være en konsulentmegler eller et konsulentfirma som har inngått rammeavtale (eller kvalifisert seg på en dynamisk innkjøpsordning) med en kunde.
 
 ## Er innleie og kjøp av konsulenttjenester det samme?
 
@@ -112,6 +115,16 @@ En produksjonsbedrift behøver ikke å være et godkjent bemanningsforetak for �
 
 
 Du finner mer informasjon om produksjonsbedrifter hos [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsforhold/ansettelse/innleie/innleie-arbeidskraft-produksjonsbedrift/).
+
+## Hva er en entreprise
+
+På [Wikipedia](https://no.wikipedia.org/wiki/Entreprise) finner man følgende definisjon av en enterprise:
+
+> En entreprise er et bygge- eller anleggsoppdrag på fast eiendom etter byggherrens planer og prosjektering, med entreprenøren (som skal stå for oppføringen) og byggherren (på hvis eiendom og i hvis interesse byggingen skal skje) som parter.
+>
+> En entreprenør vil kunne være både de store entreprenørfirmaer og en byggmester, murer, rørlegger, elektriker eller fagfolk innen andre tekniske fag. Større leverandører innen slike fag, kalles ofte tekniske entreprenører.
+
+"Entreprise" er altså et begrep fra byggebransjen. I IT-bransjen brukes ikke dette begrepet. Det finnes heller ingen tydelig ekvivalent for enterpriser i IT-bransjen. Det nærmeste kan kanskje være en oppdragsavtale (SSA-O) med forhåndsavtalt fastpris. 
 
 # Godkjenningsordningen for bemanningsforetak
 
