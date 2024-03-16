@@ -4,8 +4,6 @@
 
 Målgruppen for denne teksten er selvstendige konsulenter, journalister, politikere og andre som ønsker å orientere seg om saken. Bidrag og korreksjoner er velkomne (se [Contributing.md](CONTRIBUTING.md)).
 
-{:toc}
-
 # Bakgrunn
 
 Fra og med 1. april 2023 trådte det i kraft et nytt regelverk i Norge som påvirker innleie fra bemanningsforetak. Dette regelverket var en del av en bredere innsats for å stramme inn bruken av midlertidige ansettelser og innleie fra bemanningsbyråer, med mål om å sikre bedre arbeidsvilkår for arbeidstakere og gjøre fast ansettelse til hovedregelen. Regelverket ble vedtatt gjennom proposisjon 131 til Stortinget.
