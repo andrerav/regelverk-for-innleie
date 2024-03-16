@@ -1,1 +1,4 @@
+plugins:
+  - jekyll-spaceship
+
 mermaid: true
