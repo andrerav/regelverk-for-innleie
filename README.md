@@ -235,6 +235,8 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 | 15. Mars 2024 | Full forvirring om nye innleieregler. Nå svarer Brenna | [Digi](https://www.digi.no/artikler/full-forvirring-om-nye-innleieregler-na-svarer-brenna/544907) |
 | 14. Mars 2024 | Innleiereglene misforstås fortsatt: - Tror ikke vi er i mål | [kode24.no](https://www.kode24.no/artikkel/innleiereglene-misforstas-fortsatt-tror-ikke-vi-er-i-mal/81118134) |
 | 11. Mars 2024 | Ulovlig å være enslig IT-konsulent | [Computerworld](https://www.cw.no/arbeidsmiljoloven-arbeidsrett-enkeltpersonforetak/ulovlig-a-vaere-enslig-it-konsulent/2162092) |
+| 5. Mars 2024 | – Jeg har fått næringsforbud | [Finansavisen](https://www.finansavisen.no/karriere/2024/03/05/8105998/selvstendig-naeringsdrivende-nektes-godkjenning-na-mister-de-oppdrag) |
+| 26. Jan 2024 | Økt risiko for oppdragsgivere, konsulenter og gründere | [Finansavisen](https://www.finansavisen.no/politikk/2024/01/26/8086390/okt-risiko-for-oppdragsgivere-konsulenter-og-gruendere) |
 | 05. Mars 2024 | – Jeg har fått næringsforbud | [Finansavisen](https://www.finansavisen.no/karriere/2024/03/05/8105998/selvstendig-naeringsdrivende-nektes-godkjenning-na-mister-de-oppdrag) |
 | 05. Feb. 2024 | Arbeidstaker mot sin vilje | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/synspunkt-nicolay-skarning-arbeidstaker-mot-sin-vilje) |
 | 22. Jan. 2024 | Flere dømmes til å være arbeidstaker | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/flere-dommes-til-vaere-arbeidstaker) |
