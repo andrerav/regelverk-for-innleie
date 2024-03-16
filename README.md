@@ -235,6 +235,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 | 15. Mars 2024 | Full forvirring om nye innleieregler. Nå svarer Brenna | [Digi](https://www.digi.no/artikler/full-forvirring-om-nye-innleieregler-na-svarer-brenna/544907) |
 | 11. Mars 2024 | Ulovlig å være enslig IT-konsulent | [Computerworld](https://www.cw.no/arbeidsmiljoloven-arbeidsrett-enkeltpersonforetak/ulovlig-a-vaere-enslig-it-konsulent/2162092) |
 | 5. Mars 2024 | – Jeg har fått næringsforbud | [Finansavisen](https://www.finansavisen.no/karriere/2024/03/05/8105998/selvstendig-naeringsdrivende-nektes-godkjenning-na-mister-de-oppdrag) |
+| 26. Jan 2024 | Økt risiko for oppdragsgivere, konsulenter og gründere | [Finansavisen](https://www.finansavisen.no/politikk/2024/01/26/8086390/okt-risiko-for-oppdragsgivere-konsulenter-og-gruendere) |
 | 01. April 2023 | Nå blir det nye regler for innleie av arbeidskraft | [Regjeringen.no](https://www.regjeringen.no/no/aktuelt/na-blir-det-nye-regler-for-innleie-av-arbeidskraft/id2970261/) |
 | 20. Des. 2022 | Skjerpa reglar for innleige | [Regjeringen.no](https://www.regjeringen.no/no/aktuelt/skjerpa-reglar-for-innleige/id2952383/) |
 | 17. Juni 2022 | Regjeringen foreslår å skjerpe reglene for innleie | [Regjeringen.no](https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-a-skjerpe-reglene-for-innleie/id2919491/) |
