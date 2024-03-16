@@ -27,12 +27,12 @@ I tillegg har [Arbeidstilsynet oppgitt disse kriteriene](https://www.arbeidstils
 
 Ved innleie er arbeidstakeren ansatt i en utleievirksomhet, mens selve arbeidet utføres under ledelse av innleievirksomheten Sammenlignet med vanlige arbeidsforhold innebærer innleie dermed et trepartsforhold:
 
-::: mermaid
+```mermaid
 graph LR
 
     Innleier -->|Avtale om innleie| Utleier 
     Arbeidstaker -->|Arbeidsavtale| Utleier 
-:::
+```
 
 ## Når kan man leie inn arbeidstakere
 
@@ -68,12 +68,12 @@ I følge [DigDir's veileder for kjøp av konsulenttjenester](https://anskaffelse
 
 I dette tilfelle foreligger det dermed også et trepartsforhold:
 
-::: mermaid
+```mermaid
 graph LR
 
     Kunde -->|Avtale om bistand| Leverandør
     Konsulent -->|Arbeidsavtale| Leverandør
-:::
+```
 
 For en selvstendig konsulent så vil hen være både eier og eneste ansatt i leverandørvirksomheten.
 
