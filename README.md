@@ -229,8 +229,6 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 # Tidslinje
 
-## Saker i media
-
 | Dato | Overskrift/Tittel | Link |
 |------|------------|------|
 | 15. Mars 2024 | Reagerer på innleie-oppklaring: − På grensen til det komiske | [Digi](https://www.digi.no/artikler/reagerer-pa-innleie-oppklaring-pa-grensen-til-det-komiske/544931) |
@@ -244,10 +242,6 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 | 20. Des. 2022 | Skjerpa reglar for innleige | [Regjeringen.no](https://www.regjeringen.no/no/aktuelt/skjerpa-reglar-for-innleige/id2952383/) |
 | 17. Juni 2022 | Regjeringen foreslår å skjerpe reglene for innleie | [Regjeringen.no](https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-a-skjerpe-reglene-for-innleie/id2919491/) |
 | 17. Juni 2022 | Stortingsproposisjon 131 | [Regjeringen.no](https://www.regjeringen.no/no/dokumenter/prop.-131-l-20212022/id2919207/)
-
-
-
-## Annet
 
 
 # Ordliste
