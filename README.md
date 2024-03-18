@@ -144,6 +144,7 @@ I hovedsak tolkes regelverket på to ulike måter:
 Kunder som velger Tolkning 1 vil stille krav om at leverandører og underleverandører er et godkjent bemanningsforetak for å kunne inngå avtaler om kjøp av konsulenttjenester med denne kunden.
 
 Eksempler på kjente virksomheter som pr. 15.03.2024 støtter seg på Tolkning 1 er:
+ * Direktoratet for høyere utdanning og kompetanse (HK-dir) (https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/393126/0/0)
  * BRREG
  * Aker Solutions
  * Equinor
