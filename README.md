@@ -234,10 +234,12 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 17. Mars 2024 | Nitrist for Witted og tusenvis av andre konsulenter | [Finansavisen](https://www.finansavisen.no/jus/2024/03/17/8110749/nitrist-for-witted-og-tusenvis-av-andre-konsulenter) |
 | 15. Mars 2024 | Reagerer på innleie-oppklaring: − På grensen til det komiske | [Digi](https://www.digi.no/artikler/reagerer-pa-innleie-oppklaring-pa-grensen-til-det-komiske/544931) |
 | 15. Mars 2024 | Full forvirring om nye innleieregler. Nå svarer Brenna | [Digi](https://www.digi.no/artikler/full-forvirring-om-nye-innleieregler-na-svarer-brenna/544907) |
 | 14. Mars 2024 | Innleiereglene misforstås fortsatt: - Tror ikke vi er i mål | [kode24.no](https://www.kode24.no/artikkel/innleiereglene-misforstas-fortsatt-tror-ikke-vi-er-i-mal/81118134) |
 | 11. Mars 2024 | Ulovlig å være enslig IT-konsulent | [Computerworld](https://www.cw.no/arbeidsmiljoloven-arbeidsrett-enkeltpersonforetak/ulovlig-a-vaere-enslig-it-konsulent/2162092) |
+| 11. Mars 2024 | - Rammer tusenvis av IT-konsulenter | [Finansavisen](https://www.finansavisen.no/karriere/2024/03/11/8108729/mister-jobber-med-nye-innleieregler-rammer-tusenvis-av-it-konsulenter) |
 | 05. Mars 2024 | – Jeg har fått næringsforbud | [Finansavisen](https://www.finansavisen.no/karriere/2024/03/05/8105998/selvstendig-naeringsdrivende-nektes-godkjenning-na-mister-de-oppdrag) |
 | 05. Feb. 2024 | Arbeidstaker mot sin vilje | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/synspunkt-nicolay-skarning-arbeidstaker-mot-sin-vilje) |
 | 30. Jan. 2024 | Dømt til å være arbeidstaker? | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/synspunkt-karoline-amundsen-dystebakken-domt-til-vaere-arbeidstaker) |
