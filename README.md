@@ -183,15 +183,42 @@ Kunder som kjøper konsulenttjenester vil kunne oppleve høyere timepriser på g
 
 # Generelt om IT-konsulentbransjen og avtaleformer
 
-IT-konsulentbransjen handler om å tilby ekspertise og tjenester relatert til informasjonsteknologi til bedrifter og organisasjoner. Dette kan inkludere alt fra rådgivning om IT-strategi, systemutvikling og implementering av programvare, til vedlikehold og støtte. Bransjen preges av et bredt spekter av tjenester og løsninger, tilpasset de spesifikke behovene til hver enkelt klient.
+IT-konsulentbransjen handler om å tilby ekspertise og tjenester relatert til informasjonsteknologi til bedrifter og organisasjoner. Dette kan inkludere alt fra rådgivning om IT-strategi, systemutvikling og implementering av programvare, til vedlikehold og støtte. Bransjen preges av et bredt spekter av tjenester og løsninger, tilpasset de spesifikke behovene til hver enkelt klient. Innen IT-bransjen er det mange ulike avtaleformer som kan brukes. Uansett om avtalene inngås i forbindelse med et avrop eller minikonkurranse under en rammeavtale, eller som en utlysning på en dynamisk innkjøpsordning, eller i andre situasjoner, så er det Bistandsavtalen (SSA-B) som er den mest brukte målt i både antall og størrelse. En viktig del av problematikken rundt det nye regelverket er at regjeringen hevder at selvstendige konsulenter fortsatt kan inngå oppdragsavtaler (SSA-O), og dermed ikke skal være berørt av det nye regelverket. I denne seksjonen oppsummeres de viktigste forskjellene mellom disse avtaleformene.
 
-### Avtaleformer
+## Avtaleformer
 
-TODO:
-* SSA-R
-* SSA-B
-* SSA-O
-* SSA-T
+_NB! Beskrivelsen av disse avtaleformene er i all hovedsak hentet fra [Anskaffelser.no](https://anskaffelser.no/avtaler-og-regelverk/statens-standardavtaler-ssa/velg-riktig-statens-standardavtale-ssa). Det er en nettside eid og driftet av DFØ._
+
+### Bistandsavtalen (SSA-B)
+Når du kjenner behovet, men ikke vet helt hva resultatet skal bli, er bistandsavtalene egnet. Bistandsavtalene (SSA-B og SSA-B enkel). (SSA-B enkel er en komprimert SSA-B uten bilag.) Konsulentavtalene er beregnet for kjøp av konsulenttimer under ledelse av kunden.
+
+Konsulentens ansvar er begrenset til å gjøre de oppgavene Kunden instruerer konsulenten til å utføre (innsatsforpliktelse).
+
+> [!NOTE]
+> SSA-B er den mest brukte avtaleformen for kjøp av konsulenttjenester i det norske IT-markedet i dag. Denne avtaleformen er godt egnet for smidig utviklingsmetodikk og både små og store IT-prosjekter.
+
+### Oppdragsavtalen (SSA-O)
+
+SSA-O kan benyttes for utrednings- og utviklingsoppgaver. Når du kjenner behovet og vet hvilke krav du har til resultatet, men trenger hjelp til å utforme innhold og løsning, er oppdragsavtalen egnet. Leverandøren har et selvstendig ansvar for ytelsen som leveres under kontrakten (resultatforpliktelse), noe som ikke er tilfellet under SSA-B der Leverandøren ikke har noe selvstendig ansvar for resultatet.
+
+SSA-O er lite brukt til utviklingsprosjekter. DFØ gir også konkrete anbefalinger om å _ikke_ bruke denne avtaleformen til IT-prosjekter:
+
+> _Oppdragsavtalen er i utgangspunktet ikke laget for IT-utviklingsprosjekter. Det inngår for eksempel ikke bestemmelser om test og godkjenning i avtalen. [...] Ved større IT-utviklingsprosjekter bør du bruke tilpasningsavtalen (SSA-T) eller smidigavtalen (SSA-S)._ ([Kilde](https://anskaffelser.no/avtaler-og-regelverk/statens-standardavtaler-ssa/velg-riktig-statens-standardavtale-ssa))
+
+Og:
+
+> _Avtalen er ikke egnet for oppdrag knyttet til IT utvikling, da avtalen blant annet ikke har regulering av undersøkelsesplikt/test og kriterier for godkjenning av utviklet funksjonalitet. Her bør andre avtaler vurderes._ ([Kilde](https://anskaffelser.no/verktoy/maler/ssa-o-oppdragsavtalen))
+
+### Utviklings- og tilpasningsavtalen (SSA-T)
+
+Avtalen kan benyttes både til nyutvikling av programvare og til tilpasninger av eksisterende programvare. Ved nyutvikling vil Leverandøren utvikle kildekoden for din løsning. Ved tilpasning vil Leverandøren tilpasse eksisterende programvare til Kundens behov (parametersetting eller integrasjoner/grensesnitt mot Kundens eksisterende systemer). Avtalen er basert på den såkalte fossefallsmetoden, det vil si en sekvensiell metode der Kunden presenterer en komplett kravspesifikasjon som Leverandøren besvarer i henhold til fremstilte krav med et prisestimat.
+
+> [!NOTE]
+> Fossefallsmetoden er i all hovedsak forlatt som utviklingsmetodikk i den norske IT-bransjen. Denne avtaleformen stiller høye krav til kundens kompetanse og evne til å fremstille en svært detaljert og omfattende kravspesifikasjon. Avtalen egner seg ikke for utvikling eller tilpasning basert på timebruk eller ved bruk av målprismodeller.
+
+### Smidigavtalen (SSA-S)
+
+Smidigavtalen er en avtale for utvikling av programvare, hvor du som kunde angir behovene dine (uten å oppstille konkrete funksjonskrav). Detaljspesifiseringen foregår i tett samarbeid med leverandøren. Avtalen kan være krevende å benytte, og egner seg ikke for mindre utviklingsprosjekter. Avtalen er basert på smidig metodikk. Generelt innebærer en smidig prosess å kontinuerlig legge til, fjerne, prioritere og implementere ulike krav fortløpende i et prosjekt. Avtalen omfatter også levering av eventuell standardprogramvare, fri programvare og utstyr, samt tjenester og ytelser som står i forbindelse med dette.
 
 # Debatt om regelverket
 
