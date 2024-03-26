@@ -279,6 +279,8 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 | 17. Nov. 2023 | Må dere gjør alt så innmari vanskelig for utviklere? | [kode24.no](https://www.kode24.no/artikkel/ma-dere-gjor-alt-sa-innmari-vanskelig-for-utviklere/80526418) |
 | 14. Nov. 2023 | Jo, utviklere kan fortsatt være frilans: Sånn fungerer de nye reglene | [kode24.no](https://www.kode24.no/artikkel/jo-utviklere-kan-fortsatt-vaere-frilans-sann-fungerer-de-nye-reglene/80505522) |
 | 08. Nov. 2023 | Utviklere blir tvunget tilbake til konsulent-miljøer og faste stillinger | [kode24.no](https://www.kode24.no/artikkel/utviklere-blir-tvunget-tilbake-til-konsulent-miljoer-og-faste-stillinger/80457686) |
+| 08. Okt. 2023 | – Løser et problem som ikke eksisterer | [Finansavisen](https://www.finansavisen.no/teknologi/2023/10/08/8039049/ny-vikarlov-loser-et-problem-som-ikke-eksisterer) |
+| 27. Jun. 2023 | 140.000 rådgivere rammes av uklare regler | [Finansavisen](https://www.finansavisen.no/karriere/2023/06/27/8018139/140.000-radgivere-rammes-av-uklare-regler) |
 | 15. Mai  2023 | – Flere konsulent­­hus vil få det tøft | [kode24.no](https://www.kode24.no/artikkel/flere-konsulenthus-vil-fa-det-toft/79260619) |
 
 ## Annet
