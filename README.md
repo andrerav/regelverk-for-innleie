@@ -1,12 +1,12 @@
 # Det nye regelverket for innleie
 
-**TL;DR**: Fra 1. januar 2024 må alle virksomheter som driver med utleie av arbeidskraft i Norge godkjennes av Arbeidstilsynet. Det er kun virksomheter som får en slik godkjenning som lovlig kan leie ut arbeidstakere. Selvstendig næringsdrivende tillates ikke å få en slik godkjenning. Dette har ført til konsekvenser for selvstendige IT-konsulenter som nå stenges ute fra store deler av markedet. Dette dokumentet er en "primer" som fokuserer på å tilgjengeliggjøre og forklare denne problematikken.
+**TL;DR**: Fra 1. januar 2024 må alle virksomheter som driver med utleie av arbeidskraft i Norge godkjennes av Arbeidstilsynet. Kun virksomheter som får godkjenning kan lovlig leie ut arbeidstakere. Selvstendig næringsdrivende får ikke godkjenning. Dette har ført til at selvstendige IT-konsulenter nå stenges ute fra store deler av markedet. Dette dokumentet er en "primer" som tilgjengeliggjør og forklarer denne problematikken.
 
 Målgruppen for denne teksten er selvstendige konsulenter, journalister, politikere og andre som ønsker å orientere seg om saken. Bidrag og korreksjoner er velkomne (se [Contributing.md](CONTRIBUTING.md)).
 
 # Bakgrunn
 
-Fra og med 1. april 2023 trådte det i kraft et nytt regelverk i Norge som påvirker innleie fra bemanningsforetak. Dette regelverket var en del av en bredere innsats for å stramme inn bruken av midlertidige ansettelser og innleie fra bemanningsbyråer, med mål om å sikre bedre arbeidsvilkår for arbeidstakere og gjøre fast ansettelse til hovedregelen. Regelverket ble vedtatt gjennom proposisjon 131 til Stortinget.
+Fra og med 1. april 2023 trådte det i kraft et nytt regelverk i Norge som påvirker innleie fra bemanningsforetak. Dette regelverket var en del av en bredere innsats for å stramme inn bruken av midlertidige ansettelser og innleie fra bemanningsbyråer, med mål om å sikre bedre arbeidsvilkår for arbeidstakere og gjøre fast ansettelse til hovedregelen. Regelverket ble vedtatt gjennom [proposisjon 131 til Stortinget](https://www.regjeringen.no/no/dokumenter/prop.-131-l-20212022/id2919207/).
 
 Regelverket har både før og etter innføringen blitt kritisert for manglende konsekvensutredninger, mangel på tydelighet, misforståelser og negative konsekvenser for selvstendig næringsdrivende. 
 
@@ -23,7 +23,7 @@ I tillegg har [Arbeidstilsynet oppgitt disse kriteriene](https://www.arbeidstils
 > * Arbeidet dekker et vedvarende arbeidskraftbehov hos oppdragsgiver
 > * Arbeidet skjer innenfor oppdragsgivers kjerne- eller hovedaktivitet
 
-Ved innleie er arbeidstakeren ansatt i en utleievirksomhet, mens selve arbeidet utføres under ledelse av innleievirksomheten Sammenlignet med vanlige arbeidsforhold innebærer innleie dermed et trepartsforhold:
+Ved innleie er arbeidstakeren ansatt i en utleievirksomhet, mens selve arbeidet utføres under ledelse av innleievirksomheten. Sammenlignet med vanlige arbeidsforhold innebærer innleie dermed et trepartsforhold:
 
 ```mermaid
 graph LR
@@ -37,11 +37,11 @@ graph LR
 Som hovedregel er det kun lovlig å leie inn arbeidstakere i disse tilfellene:
 
 * For arbeid i stedet for en annen (vikariat)
-* Avtale om innleie fra bemanningsforetak med bedriftens tillitsvalgte
+* Avtale om tidsbegrenset innleie fra bemanningsforetak med skriftlig avtale med bedriftens tillitsvalgte
 * Midlertidig behov for spesialkompetanse innenfor rådgivnings- og konsulenttjenester
 * Behov for helsepersonell for å sikre forsvarlig drift av helse- og omsorgstjenester
 
-I alle tilfeller kan man uansett kun leie inn arbeidstakere fra enten et godkjent bemanningsforetak eller en produksjonsbedrift som oppfyller kravene.
+I alle tilfellene kan man kun leie inn arbeidstakere fra enten et godkjent bemanningsforetak eller en produksjonsbedrift som oppfyller kravene.
 
 Du kan lese mer om dette hos [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsforhold/ansettelse/innleie/).
 
@@ -54,7 +54,7 @@ I følge [DigDir's veileder for kjøp av konsulenttjenester](https://anskaffelse
 > * Kvaliteten på tjenesten avhenger både av enkeltpersoners kunnskap og kompetanse, men også av konsulentselskapets faglige metodikk og kvalitetssikringsrutiner
 > * Leveransen ofte forutsetter en viss grad  av samhandling mellom leverandør  og oppdragsgiver
 
-I dette tilfelle foreligger det dermed også et trepartsforhold:
+I dette tilfellet foreligger det dermed også et trepartsforhold:
 
 ```mermaid
 graph LR
@@ -92,7 +92,7 @@ Mens DFØ sier følgende i [sine retningslinjer](https://anskaffelser.no/sites/d
 > 
 > **Et kompetansebehov kan også dekkes gjennom innleie av arbeidstakere**, eksempelvis av vikartjenester. Både innleie av arbeidstakere og kjøp av konsulenttjenester omfattes av anskaffelsesregelverket.   
 
-DFØ trekker med andre ord et tydelig skille mellom innleie og kjøp av konsulenttjenester. DFØ og Arbeidstilsynet er med andre ord som uenige i hvorvidt kjøp av konsulenttjenester skal ansees som innleie eller ikke.
+DFØ trekker et tydelig skille mellom innleie og kjøp av konsulenttjenester. DFØ og Arbeidstilsynet er tilsynelatende uenige i hvorvidt kjøp av konsulenttjenester skal ansees som innleie eller ikke.
 
 Dette er et nøkkelpoeng, for hvis kjøp av konsulenttjenester ikke anses som innleie, så har heller ikke virksomheter hjemmel for å ekskludere selvstendige leverandører fra konkurranser og anskaffelser. 
 
@@ -112,7 +112,6 @@ En produksjonsbedrift behøver ikke å være et godkjent bemanningsforetak for �
     * Utleien må gjelde de samme fagområdene som utgjør utleiers hovedvirksomhet. Hvis utleier kun driver med snekkerarbeid, så må utleien gjelde snekkerarbeid.
     * Produksjonsbedriften ikke kan leie ut mer enn 50 prosent av sine fast ansatte. Dette inkluderer både produksjonsmedarbeidere og administrativt ansatte.
 * Den utleide arbeidstakeren skal være fast ansatt hos produksjonsbedriften.
-
 
 Du finner mer informasjon om produksjonsbedrifter hos [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsforhold/ansettelse/innleie/innleie-arbeidskraft-produksjonsbedrift/).
 
@@ -135,11 +134,12 @@ Enkeltpersonforetak uten arbeidstakere og AS der eier er eneste ansatt, skal ikk
 Du kan finne en [liste over godkjente bemanningsforetak](https://www.arbeidstilsynet.no/godkjenninger/godkjente-bemanningsforetak/finn-godkjente-bemanningsforetak/) hos Arbeidstilsynet.
 
 # Tolkninger av regelverket
-Regelverket slik det foreligger i dag ansees som forvirrende for både leverandører av konsulenttjenester og kunder som kjøper konsulenttjenester. 
+
+Regelverket har skapt forvirring både for leverandører av konsulenttjenester og kunder som kjøper konsulenttjenester. 
 
 I hovedsak tolkes regelverket på to ulike måter:
 * **Tolkning 1**: Kjøp av konsulenttjenester er det samme som innleie og man må derfor følge regelverket som gjelder for innleie.
-* **Tolkning 2**: Kjøp av konsulenttjenester er forskjellige fra innleie, og er ikke omfattet av regelverket for innleie.
+* **Tolkning 2**: Kjøp av konsulenttjenester er forskjellig fra innleie, og er ikke omfattet av regelverket for innleie.
 
 Kunder som velger Tolkning 1 vil stille krav om at leverandører og underleverandører er et godkjent bemanningsforetak for å kunne inngå avtaler om kjøp av konsulenttjenester med denne kunden.
 
@@ -155,7 +155,7 @@ Eksempler på kjente virksomheter som pr. 15.03.2024 støtter seg på Tolkning 1
 
 Leverandører som oppfyller kravene til godkjenning som bemanningsforetak, det vil si konsulentfirma eller tilsvarende med minimum 2-3 ansatte, er i all hovedsak ikke negativt berørt. Man derimot tenke seg at slike leverandører nå får mindre konkurranse fra selvstendige leverandører, og dermed kan kreve høyere timepriser for sine konsulenttjenester.
 
-Selvstendige konsulenter blir nektet godkjenning som bemanningsforetak og blir dermed utestengt fra å kunne tilby sine tjenester til kunder som stiller en slik godkjenning som krav. I mange tilfeller vil dette føre til at selvstendig konsulenter må søke om fast ansettelse hos et konsulentfirma. I de fleste tilfeller vil dette medføre drastisk dårligere arbeidsvilkår for konsulenten. Dette er altså det stikk motsatte av hva det nye regelverket søker å oppnå.
+Selvstendige konsulenter blir nektet godkjenning som bemanningsforetak og blir dermed utestengt fra å kunne tilby sine tjenester til kunder som stiller en slik godkjenning som krav. I mange tilfeller vil dette føre til at selvstendig konsulenter må søke om fast ansettelse hos et konsulentfirma. I de fleste tilfeller vil dette medføre drastisk dårligere arbeidsvilkår for konsulenten. Dette er motsatt av hva det nye regelverket søker å oppnå.
 
 Oppsummert så er konsekvenser for leverandører at:
 - Konsulentfirmaer får mindre konkurranse og kan dermed ta høyere timepriser
