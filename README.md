@@ -261,6 +261,8 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 04. Apr. 2024 | Full forvirring: Insisterer på at nye innleieregler ikke rammer selvstendige konsulenter | [Digi](https://www.digi.no/artikler/vestre-om-selvstendige-it-konsulenter-de-kan-fortsette-som-for/545457) |
+| 04. Apr. 2024 | Nå er det langt på vei forbudt med eksterne utviklere i produktteam | [Digi](https://www.digi.no/artikler/debatt-na-er-det-langt-pa-vei-forbudt-med-eksterne-utviklere-i-produktteam/545400) |
 | 22. Mars 2024 | Nye innleieregler: − Folk reagerer med vantro | [Digi](https://www.digi.no/artikler/nye-innleieregler-frustrerer-mange-kjenner-bekymringen-pa-kroppen/545027) |
 | 21. Mars 2024 | Regjeringen forstår ikke hvordan IT-utvikling foregår i 2024 | [Finansavisen](https://www.finansavisen.no/politikk/2024/03/21/8111547/regjeringen-forstar-ikke-hvordan-it-utvikling-foregar-i-2024) |
 | 17. Mars 2024 | Nitrist for Witted og tusenvis av andre konsulenter | [Finansavisen](https://www.finansavisen.no/jus/2024/03/17/8110749/nitrist-for-witted-og-tusenvis-av-andre-konsulenter) |
