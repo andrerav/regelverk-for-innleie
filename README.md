@@ -288,6 +288,12 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 | 27. Jun. 2023 | 140.000 rådgivere rammes av uklare regler | [Finansavisen](https://www.finansavisen.no/karriere/2023/06/27/8018139/140.000-radgivere-rammes-av-uklare-regler) |
 | 15. Mai  2023 | – Flere konsulent­­hus vil få det tøft | [kode24.no](https://www.kode24.no/artikkel/flere-konsulenthus-vil-fa-det-toft/79260619) |
 
+## Skriftlige spørsmål
+
+- **02.04.2024** [Fra Alfred Jens Bjørlo (V) til digitaliserings- og forvaltningsministeren](https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=98266)
+- **07.03.2024** [Fra Alfred Jens Bjørlo (V) til arbeids- og inkluderingsministeren](https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=98045)
+- **22.02.2024** [Fra Alfred Jens Bjørlo (V) til arbeids- og inkluderingsministeren](https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=97812)
+
 ## Annet
 
 | Dato | Overskrift/Tittel | Link |
@@ -300,6 +306,8 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 | 17. Juni 2022 | Stortingsproposisjon 131 | [Regjeringen.no](https://www.regjeringen.no/no/dokumenter/prop.-131-l-20212022/id2919207/)
 | Ukjent | Innleieloven FAQ | [Witted](https://wittedpartners.com/innleieloven-faq) |
 | Ukjent | Nye innleieregler i Norge fra 1. april 2023 | [Folq](https://www.folq.no/nye-innleieregler/) |
+
+
 
 # Ordliste
 
