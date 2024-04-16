@@ -261,6 +261,9 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 16. Apr. 2024 | Selvstendige utviklere med underskrifts­kampanje mot nye innleieregler | [kode24.no](https://www.kode24.no/artikkel/selvstendige-utviklere-med-underskriftskampanje-mot-nye-innleieregler/81267542) | 
+| 15. Apr. 2024 | Ber offentlig sektor sørge for at enpersonsforetak ikke ekskluderes | [Digi](https://www.digi.no/artikler/ber-offentlig-sektor-sorge-for-at-enpersonsforetak-ikke-ekskluderes/545798) | 
+| 15. Apr. 2024 | - Aldri tenkt at vi skal slå beina under å kjøpe inn tjenester | [Digi](https://www.digi.no/artikler/nye-innleieregler-var-aldri-meningen-a-ramme-selvstendige-konsulenter/545738) | 
 | 09. Apr. 2024 | Vårt bakvendtland | [Altinget](https://www.altinget.no/artikkel/vaart-bakvendtland) | 
 | 04. Apr. 2024 | Full forvirring: Insisterer på at nye innleieregler ikke rammer selvstendige konsulenter | [Digi](https://www.digi.no/artikler/vestre-om-selvstendige-it-konsulenter-de-kan-fortsette-som-for/545457) |
 | 04. Apr. 2024 | Nå er det langt på vei forbudt med eksterne utviklere i produktteam | [Digi](https://www.digi.no/artikler/debatt-na-er-det-langt-pa-vei-forbudt-med-eksterne-utviklere-i-produktteam/545400) |
