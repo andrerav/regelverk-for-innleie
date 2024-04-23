@@ -261,6 +261,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 23. Apr. 2024 | Høyre om innleiekaoset: - Jeg er bare veldig lei | [Digi](https://www.digi.no/artikler/innleiekaoset-regjeringen-ma-rydde-opp/545953) |
 | 16. Apr. 2024 | Selvstendige utviklere med underskrifts­kampanje mot nye innleieregler | [kode24.no](https://www.kode24.no/artikkel/selvstendige-utviklere-med-underskriftskampanje-mot-nye-innleieregler/81267542) | 
 | 15. Apr. 2024 | Ber offentlig sektor sørge for at enpersonsforetak ikke ekskluderes | [Digi](https://www.digi.no/artikler/ber-offentlig-sektor-sorge-for-at-enpersonsforetak-ikke-ekskluderes/545798) | 
 | 15. Apr. 2024 | - Aldri tenkt at vi skal slå beina under å kjøpe inn tjenester | [Digi](https://www.digi.no/artikler/nye-innleieregler-var-aldri-meningen-a-ramme-selvstendige-konsulenter/545738) | 
