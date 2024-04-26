@@ -261,6 +261,9 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 26. Apr. 2024 | Ruter bremser innleie av selvstendige konsulenter - frykter brudd på regler | [kode24.no](https://www.kode24.no/artikkel/ruter-bremser-innleie-av-selvstendige-konsulenter-frykter-brudd-pa-regler/81318623) |
+| 26. Apr. 2024 | Innleiebestemmelsene: Konsekvenser og utfordringer for it-konsulenter i Norge | [Computerworld](https://www.cw.no/arbeiderpartiet-arbeidstilsyn-debatt/pa-tide-a-snu-jonas/2167949) | 
+| 26. Apr. 2024 | Til kamp mot innleieregler | [Computerworld](https://www.cw.no/abelia-arbeidskraft-hoyre/varsler-mer-kamp-mot-innleieregler/2167908) | 
 | 23. Apr. 2024 | Høyre om innleiekaoset: - Jeg er bare veldig lei | [Digi](https://www.digi.no/artikler/innleiekaoset-regjeringen-ma-rydde-opp/545953) |
 | 16. Apr. 2024 | Selvstendige utviklere med underskrifts­kampanje mot nye innleieregler | [kode24.no](https://www.kode24.no/artikkel/selvstendige-utviklere-med-underskriftskampanje-mot-nye-innleieregler/81267542) | 
 | 15. Apr. 2024 | Ber offentlig sektor sørge for at enpersonsforetak ikke ekskluderes | [Digi](https://www.digi.no/artikler/ber-offentlig-sektor-sorge-for-at-enpersonsforetak-ikke-ekskluderes/545798) | 
@@ -294,6 +297,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 ## Skriftlige spørsmål
 
+- **17.04.2024** [Fra Alfred Jens Bjørlo (V) til arbeids- og inkluderingsministeren](https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=98541)
 - **02.04.2024** [Fra Alfred Jens Bjørlo (V) til digitaliserings- og forvaltningsministeren](https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=98266)
 - **07.03.2024** [Fra Alfred Jens Bjørlo (V) til arbeids- og inkluderingsministeren](https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=98045)
 - **22.02.2024** [Fra Alfred Jens Bjørlo (V) til arbeids- og inkluderingsministeren](https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=97812)
