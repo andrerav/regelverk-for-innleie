@@ -261,6 +261,8 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 29. Apr. 2024 | Ber om sikring av it-konsulenter | [Computerworld](https://www.cw.no/bemanningsforetak-digitalisering-innleieregler/ber-om-sikring-av-it-konsulenter/2168187) |
+| 29. Apr. 2024 | Sett seg lei på innleiekaoset. Legger frem felles forslag | [Digi](https://www.digi.no/artikler/har-sett-seg-lei-pa-innleiekaoset-legger-frem-felles-forslag/546372) |
 | 29. Apr. 2024 | Betyr dette slutten for selvstendige IT-konsulenter? | [Aftenposten](https://www.aftenposten.no/meninger/debatt/i/Ppr1B0/betyr-dette-slutten-for-selvstendige-it-konsulenter) |
 | 26. Apr. 2024 | Ruter bremser innleie av selvstendige konsulenter - frykter brudd på regler | [kode24.no](https://www.kode24.no/artikkel/ruter-bremser-innleie-av-selvstendige-konsulenter-frykter-brudd-pa-regler/81318623) |
 | 26. Apr. 2024 | Innleiebestemmelsene: Konsekvenser og utfordringer for it-konsulenter i Norge | [Computerworld](https://www.cw.no/arbeiderpartiet-arbeidstilsyn-debatt/pa-tide-a-snu-jonas/2167949) | 
