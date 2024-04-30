@@ -222,14 +222,7 @@ Smidigavtalen er en avtale for utvikling av programvare, hvor du som kunde angir
 
 # Debatt om regelverket
 
-Problematikken rundt regelverket har blitt tatt opp av blant annet Venstre's næringspolitiske talsmann Alfred Bjørlo. 
-
-TODO:
-- Spørsmål 1 til Tonje
-- Spørsmål 2 til Tonje
-- Konfrontasjon i spørretimen
-
-Debatten har så langt vært preget av en mangel på innsikt i IT-konsulentbransjen fra Arbeids- og Inkluderingsministeren, noe som bidrar til å forsterke misforståelsene som allerede har oppstått.
+Problematikken rundt regelverket har primært blitt frontet av Venstre's næringspolitiske talsmann Alfred Bjørlo. Debatten har så langt vært preget av en mangel på innsikt i IT-konsulentbransjen fra Arbeids- og Inkluderingsministeren, noe som bidrar til å forsterke misforståelsene som allerede har oppstått. Se foreløpig oversikt over spørsmål/svar under [Skriftlige Spørsmål](#skriftlige-spørsmål).
 
 # Vanlige misforståelser
 ## Misforståelse: Selvstendige konsulenter kan inngå oppdragsavtaler 
@@ -330,11 +323,11 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 | Bemanningsforetak | Et bemanningsforetak er en virksomhet som har som formål å leie ut arbeidskraft til andre virksomheter som har et midlertidig behov for arbeidskraft. Arbeidstaker er ansatt hos bemanningsforetaket, men det er innleier som har det faglige ansvaret for arbeidet som de skal gjøre. [Les mer hos Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsforhold/ansettelse/innleie/bemanningsforetakets-ansvar-og-plikter/) | 
 | Produksjonsbedrift | En produksjonsbedrift er en virksomhet hvor egen produksjon av varer eller tjenester utgjør hoveddelen av virksomhetens aktiviteter. Eksempler på typiske produksjonsbedrifter er entreprenørfirma eller rørleggerbedrifter. Disse har ikke som formål å leie ut arbeidskraft som en fast del av sin næringsvirksomhet. [Les mer hos Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsforhold/ansettelse/innleie/innleie-arbeidskraft-produksjonsbedrift/). |
 | Konsulent | I standard kontoplan er en konsulent definert som «en ekstern (fysisk eller juridisk) person med spesialkompetanse som for en tidsavgrenset periode engasjeres av virksomheten for å utføre en konkret definert oppgave». [Les mer hos DFØ](https://anskaffelser.no/hva-skal-du-kjope/konsulenttjenester/retningslinjer-bruk-av-konsulenttjenester-i-staten). |
-| Konsulenttjenester |  |
+| Konsulenttjenester | Tjenester som tilbys av en konsulent. Konsulenttjenester kjøpes inn av en kunde slik at konsulenten kan bidra på et spesielt felt eller i et spesifikt prosjekt, gjerne i en begrenset tidsperiode. |
 | Kunde | En virksomhet eller privatperson som kjøper konsulenttjenester. Kan også bli omtalt som "oppdragsgiver" i mange sammenhenger, selv om avtalene som inngås ikke er oppdragsavtaler. |
 | Konsulentfirma | En virksomhet som ansetter konsulenter og selger konsulenttjenester til kunder. | 
 | Selvstendig konsulent | En konsulent som eier og er eneste ansatt i sitt eget selskap. Selvstendige konsulenter samarbeider ofte med konsulentmeglere. |
 | Konsulentmegler | En virksomhet med likhetstrekk til konsulenthus, men som i stedet selger konsulenttjenester til kunder ved å kjøpe disse fra en underleverandør. |
-| Oppdrag |  |
-| Oppdragsavtale | |
-| Bistandsavtale | |
+| Oppdrag | Et konsulentoppdrag der kunden har spesifisert hva som skal leveres. Konsulenten får et selvstendig ansvar for en ferdig leveranse/oppdrag. |
+| Oppdragsavtale | Se [Avtaleformer](#avtaleformer) |
+| Bistandsavtale | Se [Avtaleformer](#avtaleformer) |
