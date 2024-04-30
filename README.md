@@ -8,7 +8,13 @@ Målgruppen for denne teksten er selvstendige konsulenter, journalister, politik
 
 Fra og med 1. april 2023 trådte det i kraft et nytt regelverk i Norge som påvirker innleie fra bemanningsforetak. Dette regelverket var en del av en bredere innsats for å stramme inn bruken av midlertidige ansettelser og innleie fra bemanningsbyråer, med mål om å sikre bedre arbeidsvilkår for arbeidstakere og gjøre fast ansettelse til hovedregelen. Regelverket ble vedtatt gjennom [proposisjon 131 til Stortinget](https://www.regjeringen.no/no/dokumenter/prop.-131-l-20212022/id2919207/).
 
-Regelverket har både før og etter innføringen blitt kritisert for manglende konsekvensutredninger, mangel på tydelighet, misforståelser og negative konsekvenser for selvstendig næringsdrivende. 
+Regelverket har både før og etter innføringen blitt kritisert for manglende konsekvensutredninger, mangel på tydelighet, misforståelser og negative konsekvenser for selvstendig næringsdrivende.
+
+En sentral del av debatten dreier seg om denne teksten i [regjeringens veileder](https://www.regjeringen.no/no/dokumenter/veileder-innleie-av-arbeidskraft/id2987562/?ch=1):
+
+> Kjøp av tjenester fra en virksomhet som består av kun én person (enkeltpersonforetak eller selskap hvor eieren er eneste ansatt) vil heller ikke anses som innleie etter arbeidsmiljøloven. [...]
+
+Regjeringen hevder at dette betyr at selvstendige konsulenter dermed ikke skal være berørt av regelverket. Kunder ser derimot ut til å se bort fra dette unntaket og stiller nå i stadig større grad enten krav om at leverandører må være godkjent bemanningsforetak eller en produksjonsbedrift, eller at leverandører eksplisitt _ikke_ er enkeltmannsforetak eller aksjeselskap med kun én ansatt. Selvstendige konsulenter har ikke mulighet til å oppfylle noen av disse kravene og som en praktisk konsekvens stenges disse dermed ute fra store deler av IT-markedet. 
 
 ## Hva er innleie
 
