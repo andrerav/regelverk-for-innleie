@@ -261,6 +261,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 30. Apr. 2024 | Stor offentlig kunde vil ikke bruke selvstendige konsulenter fremover: – Kritisk | [Digi](https://www.digi.no/artikler/stor-offentlig-kunde-skaper-rabalder-en-vesentlig-forverring-av-situasjonen/546328) |
 | 29. Apr. 2024 | Ber om sikring av it-konsulenter | [Computerworld](https://www.cw.no/bemanningsforetak-digitalisering-innleieregler/ber-om-sikring-av-it-konsulenter/2168187) |
 | 29. Apr. 2024 | Sett seg lei på innleiekaoset. Legger frem felles forslag | [Digi](https://www.digi.no/artikler/har-sett-seg-lei-pa-innleiekaoset-legger-frem-felles-forslag/546372) |
 | 29. Apr. 2024 | Betyr dette slutten for selvstendige IT-konsulenter? | [Aftenposten](https://www.aftenposten.no/meninger/debatt/i/Ppr1B0/betyr-dette-slutten-for-selvstendige-it-konsulenter) |
