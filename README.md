@@ -169,20 +169,6 @@ Oppsummert så er konsekvenser for leverandører at:
 - Overskuddet som følge av de to foregående punktene vil tilfalle eierinteresser i konsulentfirmaet
 - Alle konsulenter vil få dårligere arbeidsvilkår, og selvstendige i særdeleshet
 
-Eksempler på konsulentfirma som vil dra stor fordel av det nye regelverket:
-
-* Sopra Steria (Frankrike)
-* Capgemini (Frankrike)
-* Bekk Consulting (Finland)
-* Tietoevry (Finland)
-* Experis (USA)
-* CGI (Sverige/USA)
-* Knowit (Sverige)
-* Accenture (USA)
-* Dfind (Frankrike)
-* Netcompany (Danmark)
-
-
 ### **Konsekvenser for kunder**
 
 Kunder som kjøper konsulenttjenester vil kunne oppleve høyere timepriser på grunn av lavere konkurranse i markedet som følge av det nye regelverket. Det kan også potensielt føre til bedre tilgang på kandidater for fast ansettelse. Men det er kanskje mer nærliggende å tro at en selvstendig konsulent vil foretrekke ansettelse i et konsulentfirma da dette typisk gir bedre betingelser enn ansettelse hos kunde.
