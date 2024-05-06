@@ -246,6 +246,8 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 06. Mai 2024  | Innleiekaoset: Ber selvstendige konsulenter klage til Arbeidstilsynet | [Digi](https://www.digi.no/artikler/innleiekaoset-ber-selvstendige-konsulenter-klage-til-arbeidstilsynet/546506) |
+| 06. Mai 2024  | Når ideologi kveler de som vil få til noe | [Digi](https://www.digi.no/artikler/debatt-nar-ideologi-kveler-de-som-vil-fa-til-noe/546562) |
 | 30. Apr. 2024 | Stor offentlig kunde vil ikke bruke selvstendige konsulenter fremover: – Kritisk | [Digi](https://www.digi.no/artikler/stor-offentlig-kunde-skaper-rabalder-en-vesentlig-forverring-av-situasjonen/546328) |
 | 29. Apr. 2024 | Ber om sikring av it-konsulenter | [Computerworld](https://www.cw.no/bemanningsforetak-digitalisering-innleieregler/ber-om-sikring-av-it-konsulenter/2168187) |
 | 29. Apr. 2024 | Sett seg lei på innleiekaoset. Legger frem felles forslag | [Digi](https://www.digi.no/artikler/har-sett-seg-lei-pa-innleiekaoset-legger-frem-felles-forslag/546372) |
