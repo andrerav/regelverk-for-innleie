@@ -246,6 +246,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 07. Mai 2024  | Frilansere må selge oppdrag, ikke timer: «Men ingen jobber sånn!» | [kode24.no](https://www.kode24.no/artikkel/frilansere-ma-selge-oppdrag-ikke-timer-men-ingen-jobber-sann/81362589) |
 | 06. Mai 2024  | Innleiekaoset: Ber selvstendige konsulenter klage til Arbeidstilsynet | [Digi](https://www.digi.no/artikler/innleiekaoset-ber-selvstendige-konsulenter-klage-til-arbeidstilsynet/546506) |
 | 06. Mai 2024  | Når ideologi kveler de som vil få til noe | [Digi](https://www.digi.no/artikler/debatt-nar-ideologi-kveler-de-som-vil-fa-til-noe/546562) |
 | 30. Apr. 2024 | Stor offentlig kunde vil ikke bruke selvstendige konsulenter fremover: – Kritisk | [Digi](https://www.digi.no/artikler/stor-offentlig-kunde-skaper-rabalder-en-vesentlig-forverring-av-situasjonen/546328) |
@@ -292,6 +293,11 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 - **02.04.2024** [Fra Alfred Jens Bjørlo (V) til digitaliserings- og forvaltningsministeren](https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=98266)
 - **07.03.2024** [Fra Alfred Jens Bjørlo (V) til arbeids- og inkluderingsministeren](https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=98045)
 - **22.02.2024** [Fra Alfred Jens Bjørlo (V) til arbeids- og inkluderingsministeren](https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qid=97812)
+
+## Representantforslag om å sikre ansatte i eget selskap muligheten til å selge sine tjenester gjennom innleie
+
+- [Selve saken på stortinget.no](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=98724)
+- [Høringen](https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/horing/?h=10005135) (frist 13. mai)
 
 ## Annet
 
