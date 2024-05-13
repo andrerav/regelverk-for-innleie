@@ -246,6 +246,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 13. Mai 2024  | Flere permitterer seg selv: − Det er så godt som ingen oppdrag | [Digi](https://www.digi.no/artikler/flere-permitterer-seg-selv-det-er-sa-godt-som-ingen-oppdrag/546617)
 | 07. Mai 2024  | Frilansere må selge oppdrag, ikke timer: «Men ingen jobber sånn!» | [kode24.no](https://www.kode24.no/artikkel/frilansere-ma-selge-oppdrag-ikke-timer-men-ingen-jobber-sann/81362589) |
 | 06. Mai 2024  | Innleiekaoset: Ber selvstendige konsulenter klage til Arbeidstilsynet | [Digi](https://www.digi.no/artikler/innleiekaoset-ber-selvstendige-konsulenter-klage-til-arbeidstilsynet/546506) |
 | 06. Mai 2024  | Når ideologi kveler de som vil få til noe | [Digi](https://www.digi.no/artikler/debatt-nar-ideologi-kveler-de-som-vil-fa-til-noe/546562) |
