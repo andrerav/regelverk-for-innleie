@@ -1,5 +1,7 @@
 # Det nye regelverket for innleie
 
+![image](https://github.com/andrerav/regelverk-for-innleie/assets/3635018/0579dc2b-4a10-4458-94bf-a5aacba0845d)
+
 **TL;DR**: Fra 1. januar 2024 må alle virksomheter som driver med utleie av arbeidskraft i Norge godkjennes av Arbeidstilsynet. Kun virksomheter som får godkjenning kan lovlig leie ut arbeidstakere. Selvstendig næringsdrivende får ikke godkjenning. Dette har ført til at selvstendige IT-konsulenter nå stenges ute fra store deler av markedet. Dette dokumentet er en "primer" som tilgjengeliggjør og forklarer denne problematikken.
 
 Målgruppen for denne teksten er selvstendige konsulenter, journalister, politikere og andre som ønsker å orientere seg om saken. Bidrag og korreksjoner er velkomne (se [Contributing.md](CONTRIBUTING.md)).
