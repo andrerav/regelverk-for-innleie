@@ -156,6 +156,8 @@ Eksempler på kjente virksomheter som pr. 15.03.2024 støtter seg på Tolkning 1
  * BRREG
  * Aker Solutions
  * Equinor
+ * Ruter
+ * NRK
 
 # Konsekvenser av det nye regelverket
 
