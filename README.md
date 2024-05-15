@@ -248,51 +248,53 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 ## I media
 
+🔓 angir at artikkelen ikke er bak betalingsmur.
+
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
-| 15. Mai 2024  | Kroken på døra for selvstendige it-konsulenter | [Computerworld](https://www.cw.no/arbeids-og-inkluderingsminister-bemanningsbyra-it-bransjen/kroken-pa-dora-for-selvstendige-it-konsulenter/2170088) |
+| 15. Mai 2024  | 🔓 Kroken på døra for selvstendige it-konsulenter | [Computerworld](https://www.cw.no/arbeids-og-inkluderingsminister-bemanningsbyra-it-bransjen/kroken-pa-dora-for-selvstendige-it-konsulenter/2170088) |
 | 15. Mai 2024  | Avviser at selvstendig tvinges ut i arbeidsløshet | [Digi](https://www.digi.no/artikler/brenna-svarer-om-innleiekaoset-beskrivelsen-er-gal/546975) |
 | 13. Mai 2024  | Flere permitterer seg selv: − Det er så godt som ingen oppdrag | [Digi](https://www.digi.no/artikler/flere-permitterer-seg-selv-det-er-sa-godt-som-ingen-oppdrag/546617)
-| 07. Mai 2024  | Frilansere må selge oppdrag, ikke timer: «Men ingen jobber sånn!» | [kode24.no](https://www.kode24.no/artikkel/frilansere-ma-selge-oppdrag-ikke-timer-men-ingen-jobber-sann/81362589) |
+| 07. Mai 2024  | 🔓 Frilansere må selge oppdrag, ikke timer: «Men ingen jobber sånn!» | [kode24.no](https://www.kode24.no/artikkel/frilansere-ma-selge-oppdrag-ikke-timer-men-ingen-jobber-sann/81362589) |
 | 06. Mai 2024  | Innleiekaoset: Ber selvstendige konsulenter klage til Arbeidstilsynet | [Digi](https://www.digi.no/artikler/innleiekaoset-ber-selvstendige-konsulenter-klage-til-arbeidstilsynet/546506) |
-| 06. Mai 2024  | Når ideologi kveler de som vil få til noe | [Digi](https://www.digi.no/artikler/debatt-nar-ideologi-kveler-de-som-vil-fa-til-noe/546562) |
+| 06. Mai 2024  | 🔓 Når ideologi kveler de som vil få til noe | [Digi](https://www.digi.no/artikler/debatt-nar-ideologi-kveler-de-som-vil-fa-til-noe/546562) |
 | 30. Apr. 2024 | Stor offentlig kunde vil ikke bruke selvstendige konsulenter fremover: – Kritisk | [Digi](https://www.digi.no/artikler/stor-offentlig-kunde-skaper-rabalder-en-vesentlig-forverring-av-situasjonen/546328) |
-| 29. Apr. 2024 | Ber om sikring av it-konsulenter | [Computerworld](https://www.cw.no/bemanningsforetak-digitalisering-innleieregler/ber-om-sikring-av-it-konsulenter/2168187) |
+| 29. Apr. 2024 | 🔓 Ber om sikring av it-konsulenter | [Computerworld](https://www.cw.no/bemanningsforetak-digitalisering-innleieregler/ber-om-sikring-av-it-konsulenter/2168187) |
 | 29. Apr. 2024 | Sett seg lei på innleiekaoset. Legger frem felles forslag | [Digi](https://www.digi.no/artikler/har-sett-seg-lei-pa-innleiekaoset-legger-frem-felles-forslag/546372) |
-| 29. Apr. 2024 | Betyr dette slutten for selvstendige IT-konsulenter? | [Aftenposten](https://www.aftenposten.no/meninger/debatt/i/Ppr1B0/betyr-dette-slutten-for-selvstendige-it-konsulenter) |
-| 26. Apr. 2024 | Ruter bremser innleie av selvstendige konsulenter - frykter brudd på regler | [kode24.no](https://www.kode24.no/artikkel/ruter-bremser-innleie-av-selvstendige-konsulenter-frykter-brudd-pa-regler/81318623) |
-| 26. Apr. 2024 | Innleiebestemmelsene: Konsekvenser og utfordringer for it-konsulenter i Norge | [Computerworld](https://www.cw.no/arbeiderpartiet-arbeidstilsyn-debatt/pa-tide-a-snu-jonas/2167949) | 
+| 29. Apr. 2024 | 🔓 Betyr dette slutten for selvstendige IT-konsulenter? | [Aftenposten](https://www.aftenposten.no/meninger/debatt/i/Ppr1B0/betyr-dette-slutten-for-selvstendige-it-konsulenter) |
+| 26. Apr. 2024 | 🔓 Ruter bremser innleie av selvstendige konsulenter - frykter brudd på regler | [kode24.no](https://www.kode24.no/artikkel/ruter-bremser-innleie-av-selvstendige-konsulenter-frykter-brudd-pa-regler/81318623) |
+| 26. Apr. 2024 | 🔓 Innleiebestemmelsene: Konsekvenser og utfordringer for it-konsulenter i Norge | [Computerworld](https://www.cw.no/arbeiderpartiet-arbeidstilsyn-debatt/pa-tide-a-snu-jonas/2167949) | 
 | 26. Apr. 2024 | Til kamp mot innleieregler | [Computerworld](https://www.cw.no/abelia-arbeidskraft-hoyre/varsler-mer-kamp-mot-innleieregler/2167908) | 
 | 23. Apr. 2024 | Høyre om innleiekaoset: - Jeg er bare veldig lei | [Digi](https://www.digi.no/artikler/innleiekaoset-regjeringen-ma-rydde-opp/545953) |
-| 16. Apr. 2024 | Selvstendige utviklere med underskrifts­kampanje mot nye innleieregler | [kode24.no](https://www.kode24.no/artikkel/selvstendige-utviklere-med-underskriftskampanje-mot-nye-innleieregler/81267542) | 
+| 16. Apr. 2024 | 🔓 Selvstendige utviklere med underskrifts­kampanje mot nye innleieregler | [kode24.no](https://www.kode24.no/artikkel/selvstendige-utviklere-med-underskriftskampanje-mot-nye-innleieregler/81267542) | 
 | 15. Apr. 2024 | Ber offentlig sektor sørge for at enpersonsforetak ikke ekskluderes | [Digi](https://www.digi.no/artikler/ber-offentlig-sektor-sorge-for-at-enpersonsforetak-ikke-ekskluderes/545798) | 
 | 15. Apr. 2024 | - Aldri tenkt at vi skal slå beina under å kjøpe inn tjenester | [Digi](https://www.digi.no/artikler/nye-innleieregler-var-aldri-meningen-a-ramme-selvstendige-konsulenter/545738) | 
-| 09. Apr. 2024 | Vårt bakvendtland | [Altinget](https://www.altinget.no/artikkel/vaart-bakvendtland) | 
+| 09. Apr. 2024 | 🔓 Vårt bakvendtland | [Altinget](https://www.altinget.no/artikkel/vaart-bakvendtland) | 
 | 04. Apr. 2024 | Full forvirring: Insisterer på at nye innleieregler ikke rammer selvstendige konsulenter | [Digi](https://www.digi.no/artikler/vestre-om-selvstendige-it-konsulenter-de-kan-fortsette-som-for/545457) |
-| 04. Apr. 2024 | Nå er det langt på vei forbudt med eksterne utviklere i produktteam | [Digi](https://www.digi.no/artikler/debatt-na-er-det-langt-pa-vei-forbudt-med-eksterne-utviklere-i-produktteam/545400) |
+| 04. Apr. 2024 | 🔓 Nå er det langt på vei forbudt med eksterne utviklere i produktteam | [Digi](https://www.digi.no/artikler/debatt-na-er-det-langt-pa-vei-forbudt-med-eksterne-utviklere-i-produktteam/545400) |
 | 25. Mars 2024 | Jobber for klarere it-konsulent-regler | [Computerworld](https://www.cw.no/arbeiderpartiet-arbeidsminister-innleieregler/jobber-for-klarere-it-konsulent-regler/2164128) | 
 | 22. Mars 2024 | Nye innleieregler: − Folk reagerer med vantro | [Digi](https://www.digi.no/artikler/nye-innleieregler-frustrerer-mange-kjenner-bekymringen-pa-kroppen/545027) |
-| 21. Mars 2024 | Regjeringen forstår ikke hvordan IT-utvikling foregår i 2024 | [Finansavisen](https://www.finansavisen.no/politikk/2024/03/21/8111547/regjeringen-forstar-ikke-hvordan-it-utvikling-foregar-i-2024) |
-| 18. Mars 2024 | Konsulenter i innleieskvis | [Finansavisen](https://www.finansavisen.no/jus/2024/03/18/8111091/konsulenter-i-innleieskvis) |
-| 17. Mars 2024 | Nitrist for Witted og tusenvis av andre konsulenter | [Finansavisen](https://www.finansavisen.no/jus/2024/03/17/8110749/nitrist-for-witted-og-tusenvis-av-andre-konsulenter) |
+| 21. Mars 2024 | 🔓 Regjeringen forstår ikke hvordan IT-utvikling foregår i 2024 | [Finansavisen](https://www.finansavisen.no/politikk/2024/03/21/8111547/regjeringen-forstar-ikke-hvordan-it-utvikling-foregar-i-2024) |
+| 18. Mars 2024 | 🔓 Konsulenter i innleieskvis | [Finansavisen](https://www.finansavisen.no/jus/2024/03/18/8111091/konsulenter-i-innleieskvis) |
+| 17. Mars 2024 | 🔓 Nitrist for Witted og tusenvis av andre konsulenter | [Finansavisen](https://www.finansavisen.no/jus/2024/03/17/8110749/nitrist-for-witted-og-tusenvis-av-andre-konsulenter) |
 | 15. Mars 2024 | Reagerer på innleie-oppklaring: − På grensen til det komiske | [Digi](https://www.digi.no/artikler/reagerer-pa-innleie-oppklaring-pa-grensen-til-det-komiske/544931) |
 | 15. Mars 2024 | Full forvirring om nye innleieregler. Nå svarer Brenna | [Digi](https://www.digi.no/artikler/full-forvirring-om-nye-innleieregler-na-svarer-brenna/544907) |
-| 14. Mars 2024 | Innleiereglene misforstås fortsatt: - Tror ikke vi er i mål | [kode24.no](https://www.kode24.no/artikkel/innleiereglene-misforstas-fortsatt-tror-ikke-vi-er-i-mal/81118134) |
+| 14. Mars 2024 | 🔓 Innleiereglene misforstås fortsatt: - Tror ikke vi er i mål | [kode24.no](https://www.kode24.no/artikkel/innleiereglene-misforstas-fortsatt-tror-ikke-vi-er-i-mal/81118134) |
 | 11. Mars 2024 | Ulovlig å være enslig IT-konsulent | [Computerworld](https://www.cw.no/arbeidsmiljoloven-arbeidsrett-enkeltpersonforetak/ulovlig-a-vaere-enslig-it-konsulent/2162092) |
 | 11. Mars 2024 | - Rammer tusenvis av IT-konsulenter | [Finansavisen](https://www.finansavisen.no/karriere/2024/03/11/8108729/mister-jobber-med-nye-innleieregler-rammer-tusenvis-av-it-konsulenter) |
 | 05. Mars 2024 | – Jeg har fått næringsforbud | [Finansavisen](https://www.finansavisen.no/karriere/2024/03/05/8105998/selvstendig-naeringsdrivende-nektes-godkjenning-na-mister-de-oppdrag) |
-| 05. Feb. 2024 | Arbeidstaker mot sin vilje | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/synspunkt-nicolay-skarning-arbeidstaker-mot-sin-vilje) |
-| 30. Jan. 2024 | Dømt til å være arbeidstaker? | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/synspunkt-karoline-amundsen-dystebakken-domt-til-vaere-arbeidstaker) |
-| 22. Jan. 2024 | Flere dømmes til å være arbeidstaker | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/flere-dommes-til-vaere-arbeidstaker) |
-| 26. Jan. 2024 | Økt risiko for oppdragsgivere, konsulenter og gründere | [Finansavisen](https://www.finansavisen.no/politikk/2024/01/26/8086390/okt-risiko-for-oppdragsgivere-konsulenter-og-gruendere) |
-| 28. Nov. 2023 | Arbeidstilsynet: Mange selvstendige utviklere kan fortsette som før | [kode24.no](https://www.kode24.no/artikkel/arbeidstilsynet-mange-selvstendige-utviklere-kan-fortsette-som-for/80586413) |
-| 20. Nov. 2023 | Dag Martin har eget AS – slik tolker han de nye frilans-reglene | [kode24.no](https://www.kode24.no/artikkel/dag-martin-har-eget-as-slik-tolker-han-de-nye-frilans-reglene/80533586) |
-| 17. Nov. 2023 | Må dere gjør alt så innmari vanskelig for utviklere? | [kode24.no](https://www.kode24.no/artikkel/ma-dere-gjor-alt-sa-innmari-vanskelig-for-utviklere/80526418) |
-| 14. Nov. 2023 | Jo, utviklere kan fortsatt være frilans: Sånn fungerer de nye reglene | [kode24.no](https://www.kode24.no/artikkel/jo-utviklere-kan-fortsatt-vaere-frilans-sann-fungerer-de-nye-reglene/80505522) |
-| 08. Nov. 2023 | Utviklere blir tvunget tilbake til konsulent-miljøer og faste stillinger | [kode24.no](https://www.kode24.no/artikkel/utviklere-blir-tvunget-tilbake-til-konsulent-miljoer-og-faste-stillinger/80457686) |
+| 05. Feb. 2024 | 🔓 Arbeidstaker mot sin vilje | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/synspunkt-nicolay-skarning-arbeidstaker-mot-sin-vilje) |
+| 30. Jan. 2024 | 🔓 Dømt til å være arbeidstaker? | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/synspunkt-karoline-amundsen-dystebakken-domt-til-vaere-arbeidstaker) |
+| 22. Jan. 2024 | 🔓 Flere dømmes til å være arbeidstaker | [Dagens Perspektiv](https://dagensperspektiv.no/synspunkt/2024/flere-dommes-til-vaere-arbeidstaker) |
+| 26. Jan. 2024 | 🔓 Økt risiko for oppdragsgivere, konsulenter og gründere | [Finansavisen](https://www.finansavisen.no/politikk/2024/01/26/8086390/okt-risiko-for-oppdragsgivere-konsulenter-og-gruendere) |
+| 28. Nov. 2023 | 🔓 Arbeidstilsynet: Mange selvstendige utviklere kan fortsette som før | [kode24.no](https://www.kode24.no/artikkel/arbeidstilsynet-mange-selvstendige-utviklere-kan-fortsette-som-for/80586413) |
+| 20. Nov. 2023 | 🔓 Dag Martin har eget AS – slik tolker han de nye frilans-reglene | [kode24.no](https://www.kode24.no/artikkel/dag-martin-har-eget-as-slik-tolker-han-de-nye-frilans-reglene/80533586) |
+| 17. Nov. 2023 | 🔓 Må dere gjør alt så innmari vanskelig for utviklere? | [kode24.no](https://www.kode24.no/artikkel/ma-dere-gjor-alt-sa-innmari-vanskelig-for-utviklere/80526418) |
+| 14. Nov. 2023 | 🔓 Jo, utviklere kan fortsatt være frilans: Sånn fungerer de nye reglene | [kode24.no](https://www.kode24.no/artikkel/jo-utviklere-kan-fortsatt-vaere-frilans-sann-fungerer-de-nye-reglene/80505522) |
+| 08. Nov. 2023 | 🔓 Utviklere blir tvunget tilbake til konsulent-miljøer og faste stillinger | [kode24.no](https://www.kode24.no/artikkel/utviklere-blir-tvunget-tilbake-til-konsulent-miljoer-og-faste-stillinger/80457686) |
 | 08. Okt. 2023 | – Løser et problem som ikke eksisterer | [Finansavisen](https://www.finansavisen.no/teknologi/2023/10/08/8039049/ny-vikarlov-loser-et-problem-som-ikke-eksisterer) |
 | 27. Jun. 2023 | 140.000 rådgivere rammes av uklare regler | [Finansavisen](https://www.finansavisen.no/karriere/2023/06/27/8018139/140.000-radgivere-rammes-av-uklare-regler) |
-| 15. Mai  2023 | – Flere konsulent­­hus vil få det tøft | [kode24.no](https://www.kode24.no/artikkel/flere-konsulenthus-vil-fa-det-toft/79260619) |
+| 15. Mai  2023 | 🔓 – Flere konsulent­­hus vil få det tøft | [kode24.no](https://www.kode24.no/artikkel/flere-konsulenthus-vil-fa-det-toft/79260619) |
 
 ## Skriftlige spørsmål
 
