@@ -252,6 +252,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 04. Juni 2024 | ⭐ Sterk økning i IT-konkurser | [Digi](https://www.digi.no/artikler/sterk-okning-i-it-konkurser/547639) |
 | 15. Mai 2024  | ⭐ Kroken på døra for selvstendige it-konsulenter | [Computerworld](https://www.cw.no/arbeids-og-inkluderingsminister-bemanningsbyra-it-bransjen/kroken-pa-dora-for-selvstendige-it-konsulenter/2170088) |
 | 15. Mai 2024  | Avviser at selvstendig tvinges ut i arbeidsløshet | [Digi](https://www.digi.no/artikler/brenna-svarer-om-innleiekaoset-beskrivelsen-er-gal/546975) |
 | 13. Mai 2024  | Flere permitterer seg selv: − Det er så godt som ingen oppdrag | [Digi](https://www.digi.no/artikler/flere-permitterer-seg-selv-det-er-sa-godt-som-ingen-oppdrag/546617)
