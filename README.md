@@ -252,6 +252,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 14. Juni 2024 | ⭐ Stortinget fjerner yrkesforbudet for selvstendige it-konsulenter | [Abelia](https://www.abelia.no/nyheter/2024/juni/stortinget-fjerner-yrkesforbudet-for-selvstendige-it-konsulenter/) |
 | 06. Juni 2024 | Innleiekaoset: Brenna åpner for unntaksregler | [Digi](https://www.digi.no/artikler/innleiekaoset-brenna-apner-for-unntaksregler/547739) |
 | 04. Juni 2024 | ⭐ Sterk økning i IT-konkurser | [Digi](https://www.digi.no/artikler/sterk-okning-i-it-konkurser/547639) |
 | 15. Mai 2024  | ⭐ Kroken på døra for selvstendige it-konsulenter | [Computerworld](https://www.cw.no/arbeids-og-inkluderingsminister-bemanningsbyra-it-bransjen/kroken-pa-dora-for-selvstendige-it-konsulenter/2170088) |
