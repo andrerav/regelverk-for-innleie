@@ -252,6 +252,9 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 25. Juni 2024 | ⭐ Starter «minimalt AS»: Sånn omgår frilanserne de nye innleie­reglene | [kode24.no](https://www.kode24.no/artikkel/starter-minimalt-as-sann-omgar-frilanserne-de-nye-innleiereglene/81576477) |
+| 21. Juni 2024 | ⭐ Efta skal avgjøre om innleieforbudet bryter EØS-avtalen | [kode24.no](https://www.kode24.no/artikkel/efta-skal-avgjore-om-innleieforbudet-bryter-eos-avtalen/81579997) |
+| 21. Juni 2024 | Nye innleieregler: Mange har allerede gitt opp å være selvstendig | [Digi](https://www.digi.no/artikler/nye-innleieregler-fire-av-ti-har-funnet-andre-losninger/548389) |
 | 14. Juni 2024 | Innleiekaoset: Lover løsning så fort som mulig | [Digi](https://www.digi.no/artikler/innleieregler-lover-losning-sa-fort-som-mulig/547906) |
 | 14. Juni 2024 | ⭐ Stortinget fjerner yrkesforbudet for selvstendige it-konsulenter | [Abelia](https://www.abelia.no/nyheter/2024/juni/stortinget-fjerner-yrkesforbudet-for-selvstendige-it-konsulenter/) |
 | 06. Juni 2024 | Innleiekaoset: Brenna åpner for unntaksregler | [Digi](https://www.digi.no/artikler/innleiekaoset-brenna-apner-for-unntaksregler/547739) |
