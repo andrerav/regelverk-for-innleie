@@ -253,6 +253,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
 | 02. Okt. 2024 | ⭐ Innleieregler forsinker digitalisering av Norge | [Digi](https://www.digi.no/artikler/debatt-innleieregler-forsinker-digitalisering-av-norge/551334) |
+| 25. Sep. 2024 | ⭐ Selvregulering i arbeidsmiljøloven skaper ulike konkurransevilkår | [Digi](https://www.digi.no/artikler/debatt-selvregulering-i-arbeidsmiljoloven-skaper-ulike-konkurransevilkar/551033) |
 | 11. Sep. 2024 | Vil ha unntak for IT-konsulenter raskere: – Fortjener tydelighet | [Shifter](https://www.shifter.no/nyheter/vil-ha-unntak-for-it-konsulenter-raskere-fortjener-tydelighet/349607) |
 | 03. Sep. 2024 | Nye innleieregler: Seks av ti dropper godkjenning | [Digi](https://www.digi.no/artikler/se-lista-fa-konsulenthus-er-godkjent-som-bemanningsforetak/550047) |
 | 28. Juni 2024 | Nye innleieregler: Mange har allerede gitt opp å være selvstendig | [Digi](https://www.digi.no/artikler/nye-innleieregler-fire-av-ti-har-funnet-andre-losninger/548389) |
