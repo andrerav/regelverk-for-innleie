@@ -252,6 +252,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 13. Nov. 2024 | − Selvstendige konsulenter skal ikke ekskluderes | [Digi](https://www.digi.no/artikler/selvstendige-konsulenter-skal-ikke-ekskluderes/552780) |
 | 02. Okt. 2024 | ⭐ Innleieregler forsinker digitalisering av Norge | [Digi](https://www.digi.no/artikler/debatt-innleieregler-forsinker-digitalisering-av-norge/551334) |
 | 25. Sep. 2024 | ⭐ Selvregulering i arbeidsmiljøloven skaper ulike konkurransevilkår | [Digi](https://www.digi.no/artikler/debatt-selvregulering-i-arbeidsmiljoloven-skaper-ulike-konkurransevilkar/551033) |
 | 11. Sep. 2024 | Vil ha unntak for IT-konsulenter raskere: – Fortjener tydelighet | [Shifter](https://www.shifter.no/nyheter/vil-ha-unntak-for-it-konsulenter-raskere-fortjener-tydelighet/349607) |
