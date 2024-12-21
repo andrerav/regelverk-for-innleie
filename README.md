@@ -322,6 +322,10 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 - [Selve saken på stortinget.no](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=98724)
 - [Høringen](https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/horing/?h=10005135) (frist 13. mai)
 
+## Høring - midlertidig unntak fra godkjenningsordningen for bemanningsforetak
+
+[Høring – partssammensatt arbeidsgruppe og midlertidig unntak fra godkjenningsordningen for bemanningsforetak](https://www.regjeringen.no/no/dokumenter/horing-partssammensatt-arbeidsgruppe-og-midlertidig-unntak-fra-godkjenningsordningen-for-bemanningsforetak/id3079895/)
+
 ## Annet
 
 | Dato | Overskrift/Tittel | Link |
