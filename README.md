@@ -252,6 +252,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 07. Jan. 2025 | Unntak for IT-konsulenter muligens i sikte | [Shifter](https://www.shifter.no/nyheter/unntak-for-it-konsulenter-muligens-i-sikte-ett-ar-etter-innstrammingen-som-forte-til-protester/369349) | 
 | 20. Des. 2024 | Lovet løsning på innleiefloka. Setter ned arbeidsgruppe | [Digi](https://www.digi.no/artikler/lovet-losning-pa-innleiefloka-setter-ned-arbeidsgruppe/554148) |
 | 13. Nov. 2024 | − Selvstendige konsulenter skal ikke ekskluderes | [Digi](https://www.digi.no/artikler/selvstendige-konsulenter-skal-ikke-ekskluderes/552780) |
 | 02. Okt. 2024 | ⭐ Innleieregler forsinker digitalisering av Norge | [Digi](https://www.digi.no/artikler/debatt-innleieregler-forsinker-digitalisering-av-norge/551334) |
