@@ -252,7 +252,9 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 05. Feb. 2025 | Innleiekaoset: Dette mener de som blir invitert til bordet | [Digi](https://www.digi.no/artikler/innsikt-innleiekaoset-dette-mener-de-som-blir-invitert-til-bordet/555396) | 
 | 31. Jan. 2025 | Innleiekaoset: Over hundre innspill om innleieunntak | [Digi](https://www.digi.no/artikler/innleiekaoset-over-hundre-innspill-om-innleieunntak/555329) |
+| 28. Jan 2025  | ⭐ Regelsuppe fra statlig hold | [Finansavisen](https://www.finansavisen.no/politikk/2025/01/28/8235424/regelsuppe-fra-statlig-hold) |
 | 23. Jan. 2025 | ⭐ Rydd opp, Brenna! | [Digi](https://www.digi.no/artikler/kommentar-rydd-opp-brenna/554958) |
 | 22. Jan. 2025 | Anna Molberg fra Høyre er sjokkert over rigide innleieregler | [Finansavisen](https://www.finansavisen.no/teknologi/2025/01/22/8233071/anna-molberg-fra-hoyre-er-sjokkert-over-rigide-innleieregler-regjeringen-har-ikke-loftet-en-finger) |
 | 16. Jan. 2025 | Innleiekaoset: Varig løsning kan ta tid | [Digi](https://www.digi.no/artikler/analyse-innleiekaoset-varig-losning-kan-ta-tid/554623) |
