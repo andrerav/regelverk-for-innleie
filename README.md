@@ -252,6 +252,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+|09. Apr. 2025 | ⭐ IT-konsulentenes yrkesforbud | [nhh.no](https://www.nhh.no/nhh-bulletin/artikkelarkiv/2025/april/it-konsulentenes-yrkesforbud/) / [dagensperspektiv.no](https://www.dagensperspektiv.no/synspunkt/torstein-nesheim-it-konsulentenes-yrkesforbud/1317235)|
 | 05. Feb. 2025 | Innleiekaoset: Dette mener de som blir invitert til bordet | [Digi](https://www.digi.no/artikler/innsikt-innleiekaoset-dette-mener-de-som-blir-invitert-til-bordet/555396) | 
 | 31. Jan. 2025 | Innleiekaoset: Over hundre innspill om innleieunntak | [Digi](https://www.digi.no/artikler/innleiekaoset-over-hundre-innspill-om-innleieunntak/555329) |
 | 28. Jan 2025  | ⭐ Regelsuppe fra statlig hold | [Finansavisen](https://www.finansavisen.no/politikk/2025/01/28/8235424/regelsuppe-fra-statlig-hold) |
