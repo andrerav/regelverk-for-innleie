@@ -252,6 +252,8 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 14. Mai 2025 | Ekskluderte halvparten av konsulenthusene | [Digi](https://www.digi.no/artikler/ekskluderte-halvparten-av-konsulenthusene/557615) |
+| 12. Mai 2025 | Utfordringene i konsulentbransjen skal under lupen | [Computerworld](https://www.cw.no/arbeidsgruppe-konsulentbransjen-lovendringer/utfordringene-i-konsulentbransjen-skal-under-lupen/2392501) |
 |09. Apr. 2025 | ⭐ IT-konsulentenes yrkesforbud | [nhh.no](https://www.nhh.no/nhh-bulletin/artikkelarkiv/2025/april/it-konsulentenes-yrkesforbud/) / [dagensperspektiv.no](https://www.dagensperspektiv.no/synspunkt/torstein-nesheim-it-konsulentenes-yrkesforbud/1317235)|
 | 05. Feb. 2025 | Innleiekaoset: Dette mener de som blir invitert til bordet | [Digi](https://www.digi.no/artikler/innsikt-innleiekaoset-dette-mener-de-som-blir-invitert-til-bordet/555396) | 
 | 31. Jan. 2025 | Innleiekaoset: Over hundre innspill om innleieunntak | [Digi](https://www.digi.no/artikler/innleiekaoset-over-hundre-innspill-om-innleieunntak/555329) |
@@ -281,6 +283,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 | 07. Mai 2024  | ⭐ Frilansere må selge oppdrag, ikke timer: «Men ingen jobber sånn!» | [kode24.no](https://www.kode24.no/artikkel/frilansere-ma-selge-oppdrag-ikke-timer-men-ingen-jobber-sann/81362589) |
 | 06. Mai 2024  | Innleiekaoset: Ber selvstendige konsulenter klage til Arbeidstilsynet | [Digi](https://www.digi.no/artikler/innleiekaoset-ber-selvstendige-konsulenter-klage-til-arbeidstilsynet/546506) |
 | 06. Mai 2024  | ⭐ Når ideologi kveler de som vil få til noe | [Digi](https://www.digi.no/artikler/debatt-nar-ideologi-kveler-de-som-vil-fa-til-noe/546562) |
+| 06. Mai 2024  | ⭐ Når ideologi kveler konsulentene | [Aftenposten](https://www.aftenposten.no/meninger/debatt/i/eM1Rvg/naar-ideologi-kveler-konsulentene) |
 | 30. Apr. 2024 | Stor offentlig kunde vil ikke bruke selvstendige konsulenter fremover: – Kritisk | [Digi](https://www.digi.no/artikler/stor-offentlig-kunde-skaper-rabalder-en-vesentlig-forverring-av-situasjonen/546328) |
 | 29. Apr. 2024 | ⭐ Ber om sikring av it-konsulenter | [Computerworld](https://www.cw.no/bemanningsforetak-digitalisering-innleieregler/ber-om-sikring-av-it-konsulenter/2168187) |
 | 29. Apr. 2024 | Sett seg lei på innleiekaoset. Legger frem felles forslag | [Digi](https://www.digi.no/artikler/har-sett-seg-lei-pa-innleiekaoset-legger-frem-felles-forslag/546372) |
