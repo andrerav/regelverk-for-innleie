@@ -252,6 +252,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 16. Mai 2025 | Innleiefloka: Arbeidsgruppa skal levere rapport våren 2026 | [Digi](https://www.digi.no/artikler/innleiefloka-arbeidsgruppa-skal-levere-rapport-varen-2026/558504) |
 | 14. Mai 2025 | Ekskluderte halvparten av konsulenthusene | [Digi](https://www.digi.no/artikler/ekskluderte-halvparten-av-konsulenthusene/557615) |
 | 12. Mai 2025 | Utfordringene i konsulentbransjen skal under lupen | [Computerworld](https://www.cw.no/arbeidsgruppe-konsulentbransjen-lovendringer/utfordringene-i-konsulentbransjen-skal-under-lupen/2392501) |
 |09. Apr. 2025 | ⭐ IT-konsulentenes yrkesforbud | [nhh.no](https://www.nhh.no/nhh-bulletin/artikkelarkiv/2025/april/it-konsulentenes-yrkesforbud/) / [dagensperspektiv.no](https://www.dagensperspektiv.no/synspunkt/torstein-nesheim-it-konsulentenes-yrkesforbud/1317235)|
