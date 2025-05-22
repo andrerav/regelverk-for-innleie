@@ -256,7 +256,8 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 | 16. Mai 2025 | Innleiefloka: Arbeidsgruppa skal levere rapport våren 2026 | [Digi](https://www.digi.no/artikler/innleiefloka-arbeidsgruppa-skal-levere-rapport-varen-2026/558504) |
 | 14. Mai 2025 | Ekskluderte halvparten av konsulenthusene | [Digi](https://www.digi.no/artikler/ekskluderte-halvparten-av-konsulenthusene/557615) |
 | 12. Mai 2025 | Utfordringene i konsulentbransjen skal under lupen | [Computerworld](https://www.cw.no/arbeidsgruppe-konsulentbransjen-lovendringer/utfordringene-i-konsulentbransjen-skal-under-lupen/2392501) |
-|09. Apr. 2025 | ⭐ IT-konsulentenes yrkesforbud | [nhh.no](https://www.nhh.no/nhh-bulletin/artikkelarkiv/2025/april/it-konsulentenes-yrkesforbud/) / [dagensperspektiv.no](https://www.dagensperspektiv.no/synspunkt/torstein-nesheim-it-konsulentenes-yrkesforbud/1317235)|
+| 09. Apr. 2025 | ⭐ IT-konsulentenes yrkesforbud | [nhh.no](https://www.nhh.no/nhh-bulletin/artikkelarkiv/2025/april/it-konsulentenes-yrkesforbud/) / [dagensperspektiv.no](https://www.dagensperspektiv.no/synspunkt/torstein-nesheim-it-konsulentenes-yrkesforbud/1317235)|
+| 21. Feb. 2025 | Innleiekaoset: Lover å involvere selvstendige konsulenter | [Digi](https://www.digi.no/artikler/innleiekaoset-lover-a-involvere-selvstendige-konsulenter/556067) |
 | 05. Feb. 2025 | Innleiekaoset: Dette mener de som blir invitert til bordet | [Digi](https://www.digi.no/artikler/innsikt-innleiekaoset-dette-mener-de-som-blir-invitert-til-bordet/555396) | 
 | 31. Jan. 2025 | Innleiekaoset: Over hundre innspill om innleieunntak | [Digi](https://www.digi.no/artikler/innleiekaoset-over-hundre-innspill-om-innleieunntak/555329) |
 | 28. Jan 2025  | ⭐ Regelsuppe fra statlig hold | [Finansavisen](https://www.finansavisen.no/politikk/2025/01/28/8235424/regelsuppe-fra-statlig-hold) |
