@@ -252,6 +252,7 @@ Det er nå mest vanlig å anvende smidig utviklingsmetodikk da dette har vist se
 
 | Dato | Overskrift/Tittel | Link |
 |------|-------------------|------|
+| 22. Mai 2025 | ⭐ Fortsatt fullt mulig å leie inn konsulenter | [Dagens Næringsliv](https://www.dn.no/innlegg/jus/arbeidsliv/arbeidsrett/fortsatt-fullt-mulig-a-leie-inn-konsulenter/2-1-1820026) |
 | 22. Mai 2025 | ⭐ Innleiereglene skaper kaos i offentlig sektor | [Digi](https://www.digi.no/artikler/debatt-innleiereglene-skaper-kaos-i-offentlig-sektor/558800) |
 | 16. Mai 2025 | Innleiefloka: Arbeidsgruppa skal levere rapport våren 2026 | [Digi](https://www.digi.no/artikler/innleiefloka-arbeidsgruppa-skal-levere-rapport-varen-2026/558504) |
 | 14. Mai 2025 | Ekskluderte halvparten av konsulenthusene | [Digi](https://www.digi.no/artikler/ekskluderte-halvparten-av-konsulenthusene/557615) |
